@@ -244,6 +244,29 @@ header{
 	background: url(img/Group\ 44.png) no-repeat center;
 	height: 100%;
 }
-.iages img{
-    margin: 10px;
+/* portfolio section */
+.portfolio-section{
+    padding: 70px 0;
+}
+.portfolio-title{
+    width: 50%;
+    padding-bottom: 40px;
+}
+.portfolio-title h2 {
+	font-size: 24px;
+	color: #ff0000;
+}
+.portfolio-title h1 {
+	font-size: 48px;
+	color: #070211;
+	margin: 8px 0 16px 0;
+}
+.portfolio-title p {
+	font-size: 20px;
+	color: #757575;
+	font-weight: 400;
+	line-height: 32px;
+}
+.portfolio-items img {
+	margin-bottom: 20px;
 }
