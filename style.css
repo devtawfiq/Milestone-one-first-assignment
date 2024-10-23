@@ -199,3 +199,51 @@ header{
     margin: 15px 0 25px 0;
 }
 /* Holiday section */
+.holidays-section{
+    padding: 70px 0;
+}
+.holidays-title {
+	width: 70%;
+	margin: auto;
+	padding-bottom: 70px;
+}
+.holidays-title h3 {
+	font-size: 24px;
+	color: #070211;
+}
+.holidays-title h1 {
+	font-size: 72px;
+	margin: 15px 0;
+}
+.holidays-title h1 span{
+    color: #ff0000;
+}
+.holidays-title p {
+	font-size: 20px;
+	color: #757575;
+	line-height: 32px;
+}
+.holidays-offers-wrap{
+    background: url(./img/Rectangle\ 2.png) no-repeat center bottom;
+}
+.holiday-right img {
+	display: inline-block;
+	position: relative;
+	top: 5px;
+	left: 0;
+}
+.holiday-right{
+    position: relative;
+}
+.holiday-right::after {
+	content: '';
+	position: absolute;
+	bottom: 69px;
+	left: -183px;
+	width: 100%;
+	background: url(img/Group\ 44.png) no-repeat center;
+	height: 100%;
+}
+.iages img{
+    margin: 10px;
+}
