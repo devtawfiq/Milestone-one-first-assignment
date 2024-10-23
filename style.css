@@ -325,3 +325,47 @@ button.btn-primary {
 	font-weight: 500;
 	font-size: 17px;
 }
+/* Footer Style */
+.footer-section {
+	background-color: #070211;
+	padding: 70px 0 40px;
+	color: #fff;
+}
+.footer-contact {
+	margin-bottom: 11px;
+}
+.footer-top-content {
+	padding-bottom: 25px;
+}
+.align-item-center{
+    align-items: center;
+}
+.footer-top-left p {
+	width: 300px;
+	line-height: 32px;
+	font-size: 17px;
+}
+.footer-top-right span:first-child {
+	margin-right: 11px;
+}
+.footer-top-right a {
+	text-decoration: none;
+	color: #fff;
+	font-size: 19px;
+}
+.social-icon-footer {
+	padding: 40px 0;
+	border-top: 1px solid #2c2835;
+	border-bottom: 1px solid #2c2835;
+}
+.social-icon-footer ul li{
+    list-style: none;
+}
+.social-icon-footer ul li a img {
+	width: 50px;
+	margin-right: 10px;
+	margin-left: 10px;
+}
+.footer-bottom{
+    padding-top: 40px;
+}
