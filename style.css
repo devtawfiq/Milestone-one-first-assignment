@@ -124,3 +124,30 @@ header{
 	margin-top: 10px;
 	display: inline-block;
 }
+/* Event section */
+.event-section{
+    padding: 70px 0;
+}
+.event-ditails {
+	background-image: linear-gradient(#FF000070, rgba(255, 0, 0, 0.052));
+	padding: 70px 0;
+	border-radius: 16px;
+}
+.event-ditails p {
+	font-size: 32px;
+	line-height: 50px;
+}
+.event-ditails p span{
+    color: #FF0000;
+}
+.btn-primary {
+	text-decoration: none;
+	display: inline-block;
+	padding: 12px 21px;
+	background: #FF0000;
+	color: #fff;
+	border-radius: 5px;
+}
+.event-ditails a.btn-primary{
+    margin-top: 45px;
+}
