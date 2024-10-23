@@ -92,3 +92,35 @@ header{
 .offer-style-section img {
 	margin-top: 48px;
 }
+/* banner bottom */
+.banner-section-bottom{
+    padding: 70px 0;
+}
+.banner-section-bottom .banner-section{
+    background-image: url(img/Vectorrr.png);
+}
+.banner-section-bottom .banner-section::after{
+    background-image: linear-gradient(to right, #070211, #07021100);
+}
+.banner-content-bottom {
+	padding: 0 100px;
+	width: 600px;
+}
+.banner-content-bottom h1 {
+	font-size: 64px;
+    line-height: 88px;
+}
+.banner-section-bottom p {
+	font-size: 18px;
+	line-height: 30px;
+	margin: 15px 0;
+}
+.banner-section-bottom a {
+	text-decoration: none;
+	color: #fff;
+	padding: 10px 15px;
+	font-size: 20px;
+	border: 1px solid #fff;
+	margin-top: 10px;
+	display: inline-block;
+}
