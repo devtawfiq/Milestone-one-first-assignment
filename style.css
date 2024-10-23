@@ -129,13 +129,14 @@ header{
     padding: 70px 0;
 }
 .event-ditails {
-	background-image: linear-gradient(#FF000070, rgba(255, 0, 0, 0.052));
+	background-image: linear-gradient(#ffe8e8, rgba(255, 0, 0, 0));
 	padding: 70px 0;
 	border-radius: 16px;
 }
 .event-ditails p {
 	font-size: 32px;
 	line-height: 50px;
+    font-weight: 500;
 }
 .event-ditails p span{
     color: #FF0000;
@@ -151,3 +152,50 @@ header{
 .event-ditails a.btn-primary{
     margin-top: 45px;
 }
+/* Coming Soon section */
+.coming-section {
+	padding: 70px 0;
+}
+.coming-soon-wrap {
+	align-items: center;
+}
+.coming-left-content{
+    width: 35%;
+}
+.coming-image{
+    width: 45%;
+    text-align: center;
+}
+.coming-left-content h3 {
+	font-size: 24px;
+	color: #ff0000;
+}
+.coming-left-content h1 {
+	font-size: 48px;
+	margin: 14px 0;
+}
+.coming-left-content p {
+	color: #757575;
+	line-height: 30px;
+	font-size: 20px;
+}
+.coming-image img {
+	position: relative;
+	border: 10px solid red;
+	border-radius: 50%;
+	padding: 16px;
+}
+.coming-right{
+    width: 20%;
+}
+.coming-right h2 {
+	font-size: 48px;
+	color: #ff0000;
+}
+.coming-right p {
+	font-size: 20px;
+	line-height: 32px;
+	color: #757575;
+    margin: 15px 0 25px 0;
+}
+/* Holiday section */
